@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>للبيع | مغاسل روز أبها</title>
+
+    <meta property="og:title" content="للبيع | مغاسل روز أبها">
+    <meta property="og:description" content="مغسلة جاهزة للتشغيل – معدات كاملة – عامل – زبائن ثابتين – فرصة ممتازة.">
+    <meta property="og:image" content="lun2.jpg">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: "Tahoma", sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            direction: rtl;
+        }
+        .box {
+            max-width: 450px;
+            margin: 30px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 0 12px rgba(0,0,0,0.2);
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+        h2 {
+            margin: 10px 0;
+            color: #c63;
+        }
+        p {
+            color: #333;
+            line-height: 1.7;
+            font-size: 15px;
+        }
+        .phone {
+            background: #c63;
+            color: #fff;
+            padding: 10px 25px;
+            margin-top: 15px;
+            display: inline-block;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 16px;
+        }
+        .phone:hover {
+            background: #a94f2e;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="box">
+
+    <!-- صورة المغسلة -->
+    <img src="lun2.jpg" alt="مغاسل روز أبها">
+
+    <h2>للبيع / نقل ملكية مغاسل روز أبها</h2>
+
+    <p>
+        مغسلة جاهزة للتشغيل فورًا.<br>
+        معدات كاملة – عامل – زبائن ثابتين – موقع ممتاز.<br>
+        مشروع جاهز بدون أي مصاريف تجهيز.
+    </p>
+
+    <p><strong>للتواصل:</strong> 00966573030943</p>
+
+    <a class="phone" href="tel:00966573030943">اتصال مباشر</a>
+</div>
+
+</body>
+</html>
